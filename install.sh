@@ -1,4 +1,4 @@
-cd ~
+#!/bin/zsh
 
 # Delete existing files
 rm ~/.zshrc
