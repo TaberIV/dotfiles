@@ -8,4 +8,4 @@ rm ~/.gitconfig
 ln -s ~/dotfiles/.zshrc ~/.zshrc
 ln -s ~/dotfiles/.gitconfig ~/.gitconfig
 
-source ~/.zshrc
+source .zshrc
