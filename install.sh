@@ -7,3 +7,5 @@ rm ~/.gitconfig
 # Create symlinks
 ln -s ~/dotfiles/.zshrc ~/.zshrc
 ln -s ~/dotfiles/.gitconfig ~/.gitconfig
+
+source ~/.zshrc
