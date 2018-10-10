@@ -19,3 +19,5 @@ source /usr/share/zsh/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.zs
 
 # Aliases 
 alias copy="xclip -selection c"
+alias ccd="cd"
+alias cdd="cd"
