@@ -24,3 +24,5 @@ alias restart="shutdown -r now"
 
 # opam configuration
 test -r /home/taber/.opam/opam-init/init.zsh && . /home/taber/.opam/opam-init/init.zsh > /dev/null 2> /dev/null || true
+alias ccd="cd"
+alias cdd="cd"
