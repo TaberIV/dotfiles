@@ -9,7 +9,7 @@ ZSH_THEME="avit"
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
 plugins=(
-  git,
+  git
   npm
 )
 
@@ -19,3 +19,8 @@ source /usr/share/zsh/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.zs
 
 # Aliases 
 alias copy="xclip -selection c"
+alias vscode="code . && exit"
+alias restart="shutdown -r now"
+
+# opam configuration
+test -r /home/taber/.opam/opam-init/init.zsh && . /home/taber/.opam/opam-init/init.zsh > /dev/null 2> /dev/null || true
