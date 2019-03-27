@@ -1,0 +1,16 @@
+[
+	// ctrl+tab behavior
+	{ "keys": ["ctrl+tab"], "command": "next_view" },
+	{ "keys": ["ctrl+shift+tab"], "command": "prev_view" },
+	// Partial word deletion
+	{ 
+		"keys": ["alt+backspace"], 
+		"command": "run_macro_file", 
+		"args": {"file": "Packages/User/delete_subword.sublime-macro"}
+	},
+	{ 
+		"keys": ["alt+delete"], 
+		"command": "run_macro_file", 
+		"args": {"file": "Packages/User/delete_subword_forward.sublime-macro"}
+	},
+]
