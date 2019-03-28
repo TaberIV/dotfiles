@@ -6,6 +6,8 @@
 	"installed_packages":
 	[
 		"Package Control",
+		"PyYapf Python Formatter",
+		"SublimeLinter",
 		"Terminal"
 	]
 }

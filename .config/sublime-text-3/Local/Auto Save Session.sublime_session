@@ -867,10 +867,10 @@
 			"buffers":
 			[
 				{
-					"file": "/home/taber/dotfiles/.config/sublime-text-3/Packages/User/PyYapf.sublime-settings",
+					"file": "/home/taber/Documents/backpack.py",
 					"settings":
 					{
-						"buffer_size": 75,
+						"buffer_size": 65,
 						"encoding": "UTF-8",
 						"line_ending": "Unix"
 					}
@@ -903,6 +903,10 @@
 				"last_filter": "",
 				"selected_items":
 				[
+					[
+						"y",
+						"PyYapf: Format Document"
+					],
 					[
 						"pyyapf",
 						"PyYapf: Format Document"
@@ -966,6 +970,7 @@
 			},
 			"file_history":
 			[
+				"/home/taber/dotfiles/.config/sublime-text-3/Packages/User/PyYapf.sublime-settings",
 				"/home/taber/dotfiles/.config/sublime-text-3/Packages/PyYapf Python Formatter/PyYapf.sublime-settings",
 				"/home/taber/Documents/Classes/19S/cs370/hw7/test",
 				"/home/taber/dotfiles/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
@@ -1005,36 +1010,30 @@
 			"groups":
 			[
 				{
-					"sheets":
-					[
-					]
-				},
-				{
 					"selected": 0,
 					"sheets":
 					[
 						{
 							"buffer": 0,
-							"file": "/home/taber/dotfiles/.config/sublime-text-3/Packages/User/PyYapf.sublime-settings",
+							"file": "/home/taber/Documents/backpack.py",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 75,
+								"buffer_size": 65,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										75,
-										75
+										24,
+										24
 									]
 								],
 								"settings":
 								{
-									"edit_settings_other_view_id": 121,
-									"edit_settings_view": "user",
-									"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+									"syntax": "Packages/Python/Python.sublime-syntax",
+									"translate_tabs_to_spaces": false
 								},
 								"translation.x": 0.0,
 								"translation.y": 0.0,
@@ -1063,18 +1062,11 @@
 						0,
 						1,
 						1
-					],
-					[
-						1,
-						0,
-						2,
-						1
 					]
 				],
 				"cols":
 				[
 					0.0,
-					0.5,
 					1.0
 				],
 				"rows":
@@ -1097,7 +1089,7 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,1,0,0,0,0,0,0,0,1920,1080",
+			"position": "0,0,0,0,0,0,29,1037,1038,1920,1080",
 			"project": "",
 			"replace":
 			{
@@ -1135,7 +1127,7 @@
 				],
 				"width": 0.0
 			},
-			"selected_group": 1,
+			"selected_group": 0,
 			"settings":
 			{
 			},
